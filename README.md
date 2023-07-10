@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Danirj02
-- 👀 I’m interested in C# C++ Javascrip
+- 👀 I’m interested in C# Javascrip
   - 🌱 I’m currently learning  C# 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
